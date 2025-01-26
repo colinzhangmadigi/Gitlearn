@@ -8,3 +8,4 @@
 
 3. continue add new string for main
 
+4. add new string for dev
