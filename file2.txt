@@ -1,3 +1,7 @@
 1. add string
 2. add two string
+<<<<<<< HEAD
 3. add a test string for dev branch
+=======
+3. add new data for data branch
+>>>>>>> data

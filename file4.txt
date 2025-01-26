@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1. add new file4.txt for test
+=======
+1. add new file4.txt for data branch
+>>>>>>> data
