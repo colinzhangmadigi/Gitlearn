@@ -1,1 +1,2 @@
 1. string
+2. file3 add new test string
